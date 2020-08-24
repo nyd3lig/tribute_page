@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    font-family: 'Crimson Text', serif;
+    background-color: #F9F7F6;
+    line-height: 1.5;
+    font-size: 1.1rem;
+    
+}
+main {
+    text-align: center;
+    margin: auto;
+}
+h1 {
+    font-size: 64px;
+    margin-top: 20px;
+    padding: 0;
+    
+}
+.sub-title {
+    margin: -60px 0 30px 0;
+    
+    
+}
+figure {
+   
+    margin-top: 40px;
+}
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    display: block; 
+    height: auto;
+    margin: auto;
+}
+figcaption {
+    margin: 20px 0 20px 0;
+    opacity: 80%;
+}
+.tribute-info {
+    margin: 25px 0 10px 0;
+}
+ul {
+    list-style-type: none;
+    margin: auto;
+    width: 600px;
+}
+li {
+    margin: 20px 0;
+    display: list-item;
+    text-align: left;
+    
+}
+strong {
+    font-family: sans-serif;
+    font-size: 1rem;
+    margin-left: -10px;
+}
+a {
+    margin: 20px;
+    color: rgba(0, 0, 0, 0.9)
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    opacity: 60%;
+}
+
